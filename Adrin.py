@@ -423,7 +423,7 @@ def menu(my_name,my_id):
 	os.system('clear')
 	banner()
 	ip = requests.get("https://api.ipify.org").text
-	gh = 'IlmanRamdhaniR'
+	gh = 'adrinkinsen'
 	cetak(nel('\tSELAMAT DATANG [yellow]%s[white]'%(my_name)))
 	print(f'└──[ID KAMU : '+str(my_id))
 	print(f'└──[IP KAMU : {sir}{ip}{x}')
