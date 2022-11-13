@@ -38,15 +38,15 @@ $ pip install rich
 
 
 
-$ git clone https://github.com/IlmanRamdhaniR/ILMAN-XD
+$ git clone https://github.com/adrinkinsen/kinsen
 
 
 
-$ cd ILMAN-XD
+$ cd kinsen
 
 
 
-$ python run.py
+$ python Adrin.py
 
 
 
@@ -58,7 +58,7 @@ $ git pull
 
 
 
-$ python run.py
+$ python Adrin.py
 
 
 
