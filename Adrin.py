@@ -799,7 +799,7 @@ if __name__=='__main__':
 	except:pass
 	try:os.mkdir('CP')
 	except:pass
-	try:os.mkdir('/sdcard/ADRIN-XD)
+	try:os.mkdir('/sdcard/ADRIN-XD')
 	except:pass
 	try:os.system('touch .prox.txt')
 	except:pass
