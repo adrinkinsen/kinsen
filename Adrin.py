@@ -433,7 +433,7 @@ def menu(my_name,my_id):
 	print(f'└──[2]{h}HASIL CRACK{x}  ')
 	print(f'└──[3]{k}KELUAR{x}       ')
 	print('─────────────────────────────')
-	Adrin = input('\r└──[PILIH : ')
+	adrin = input('\r└──[PILIH : ')
 	if adrin in ['1']:
 		dump_massal()
 	elif adrin in ['2']:
